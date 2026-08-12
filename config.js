@@ -14,12 +14,12 @@
 //    do projeto > Seus apps > Config do SDK).
 // ------------------------------------------------------------------
 const firebaseConfig = {
-  apiKey: "SUA_API_KEY_AQUI",
-  authDomain: "SEU_PROJETO.firebaseapp.com",
-  projectId: "SEU_PROJETO",
-  storageBucket: "SEU_PROJETO.appspot.com",
-  messagingSenderId: "SEU_SENDER_ID",
-  appId: "SEU_APP_ID"
+  apiKey: "AIzaSyCAFgYg5CAJfeZTUHlJKZoSgJAIJfL9MV8",
+  authDomain: "sorteio-jogos-escolares-2027.firebaseapp.com",
+  projectId: "sorteio-jogos-escolares-2027",
+  storageBucket: "sorteio-jogos-escolares-2027.firebasestorage.app",
+  messagingSenderId: "657472040054",
+  appId: "1:657472040054:web:8829f39b8f2efaec820357"
 };
 
 // ------------------------------------------------------------------
